@@ -15,6 +15,7 @@ Estudiante de 3er año de **Business Data Analytics** en Mondragon Unibertsitate
 | :--- | :--- | :--- | :--- |
 | **Reto BBVA (Nº 9)** | Proyecto de colaboración universitaria con BBVA. | Análisis de Datos / Negocio | [Ver Repositorio](https://github.com/josebaajuria/BBVA_reto9) |
 | **Terminal Interactive CV** | Mi currículum con estética retro de terminal CRT. | HTML, CSS, JavaScript | [Ver Demo en Vivo](https://josebaajuria.github.io/curriculum_joseba_ajuria/) |
+| **Health Analytics: Skin Cancer** | Análisis de datos médicos orientado a la detección y estudio de cáncer de piel. | Python, Data Science | [Ver Repositorio](https://github.com/andergarciaa/Health-Analytics-Skin-Cancer) |
 
 ---
 
